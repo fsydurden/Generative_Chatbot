@@ -12,3 +12,9 @@ pip install -r requirements.txt
 *step3*
 **Run the app**
 
+python app.py
+
+After running this visit http://localhost:5000/signup to sign-up
+or 
+Log in using  http://localhost:5000
+
